@@ -1,0 +1,15 @@
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/bin/Debug/net6.0/Example001
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/bin/Debug/net6.0/Example001.deps.json
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/bin/Debug/net6.0/Example001.runtimeconfig.json
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/bin/Debug/net6.0/Example001.dll
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/bin/Debug/net6.0/ref/Example001.dll
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/bin/Debug/net6.0/Example001.pdb
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/obj/Debug/net6.0/Example001.csproj.AssemblyReference.cache
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/obj/Debug/net6.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/obj/Debug/net6.0/Example001.AssemblyInfoInputs.cache
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/obj/Debug/net6.0/Example001.AssemblyInfo.cs
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/obj/Debug/net6.0/Example001.csproj.CoreCompileInputs.cache
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/obj/Debug/net6.0/Example001.dll
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/obj/Debug/net6.0/ref/Example001.dll
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/obj/Debug/net6.0/Example001.pdb
+/home/vlad/Документы/Geekbrains/C#/Lecture1/Example001/obj/Debug/net6.0/Example001.genruntimeconfig.cache
