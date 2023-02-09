@@ -1,0 +1,15 @@
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/bin/Debug/net6.0/Example005_giri
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/bin/Debug/net6.0/Example005_giri.deps.json
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/bin/Debug/net6.0/Example005_giri.runtimeconfig.json
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/bin/Debug/net6.0/Example005_giri.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/bin/Debug/net6.0/ref/Example005_giri.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/bin/Debug/net6.0/Example005_giri.pdb
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/obj/Debug/net6.0/Example005_giri.csproj.AssemblyReference.cache
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/obj/Debug/net6.0/Example005_giri.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/obj/Debug/net6.0/Example005_giri.AssemblyInfoInputs.cache
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/obj/Debug/net6.0/Example005_giri.AssemblyInfo.cs
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/obj/Debug/net6.0/Example005_giri.csproj.CoreCompileInputs.cache
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/obj/Debug/net6.0/Example005_giri.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/obj/Debug/net6.0/ref/Example005_giri.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/obj/Debug/net6.0/Example005_giri.pdb
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example005_giri/obj/Debug/net6.0/Example005_giri.genruntimeconfig.cache
