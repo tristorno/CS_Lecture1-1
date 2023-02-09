@@ -1,0 +1,15 @@
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/obj/Debug/net6.0/Example003_sum.csproj.AssemblyReference.cache
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/obj/Debug/net6.0/Example003_sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/obj/Debug/net6.0/Example003_sum.AssemblyInfoInputs.cache
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/obj/Debug/net6.0/Example003_sum.AssemblyInfo.cs
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/obj/Debug/net6.0/Example003_sum.csproj.CoreCompileInputs.cache
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/bin/Debug/net6.0/Example003_sum
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/bin/Debug/net6.0/Example003_sum.deps.json
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/bin/Debug/net6.0/Example003_sum.runtimeconfig.json
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/bin/Debug/net6.0/Example003_sum.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/bin/Debug/net6.0/ref/Example003_sum.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/bin/Debug/net6.0/Example003_sum.pdb
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/obj/Debug/net6.0/Example003_sum.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/obj/Debug/net6.0/ref/Example003_sum.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/obj/Debug/net6.0/Example003_sum.pdb
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example003_sum/obj/Debug/net6.0/Example003_sum.genruntimeconfig.cache
