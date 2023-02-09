@@ -8,6 +8,7 @@ if (username.ToLower() == "надя")
 }
 else
 {
-	Console.WriteLine ("Добро пожаловать, ");
+	Console.Write ("Добро пожаловать, ");
+	Console.WriteLine (username);
 	Console.WriteLine ("Удачного дня тебе!");
 }
