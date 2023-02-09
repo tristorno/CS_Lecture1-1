@@ -1,5 +1,13 @@
 ﻿Console.WriteLine ("Как тебя зовут?");
 string username = Console.ReadLine ();
-Console.Write ("Нарушаешь мои границы, ");
-Console.Write (username);
-Console.WriteLine (". БЕРЕГИСЬ!");
+if (username.ToLower() == "надя")
+{	
+	Console.Write ("Нарушаешь мои границы, ");
+	Console.Write (username);
+	Console.WriteLine (". БЕРЕГИСЬ!");
+}
+else
+{
+	Console.WriteLine ("Добро пожаловать, ");
+	Console.WriteLine ("Удачного дня тебе!");
+}

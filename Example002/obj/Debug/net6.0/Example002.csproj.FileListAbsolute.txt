@@ -1,0 +1,15 @@
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/obj/Debug/net6.0/Example002.csproj.AssemblyReference.cache
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/obj/Debug/net6.0/Example002.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/obj/Debug/net6.0/Example002.AssemblyInfoInputs.cache
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/obj/Debug/net6.0/Example002.AssemblyInfo.cs
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/obj/Debug/net6.0/Example002.csproj.CoreCompileInputs.cache
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/bin/Debug/net6.0/Example002
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/bin/Debug/net6.0/Example002.deps.json
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/bin/Debug/net6.0/Example002.runtimeconfig.json
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/bin/Debug/net6.0/Example002.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/bin/Debug/net6.0/ref/Example002.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/bin/Debug/net6.0/Example002.pdb
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/obj/Debug/net6.0/Example002.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/obj/Debug/net6.0/ref/Example002.dll
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/obj/Debug/net6.0/Example002.pdb
+/home/vlad/Документы/Geekbrains/CS/Lecture1/Example002/obj/Debug/net6.0/Example002.genruntimeconfig.cache
