@@ -1,4 +1,4 @@
-﻿int number1 = 6;
-int number2 = 09203;
-float div = number1 / number2;
+﻿double number1 = 12;
+double number2 = 8;
+double div = number1 / number2;
 Console.WriteLine (div);
